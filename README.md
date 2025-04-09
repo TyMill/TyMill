@@ -4,7 +4,7 @@
 🧠 PhD in Biology · Building Scientific Software in Python & Julia  
 📘 Author of *Machine Learning Unlocked* (2025)  
 🎓 AI trainer and curriculum developer for universities (AI4Uni, 2024–2027)  
-🖥️ Currently building a computing cluster with RTX 5090 @ University of Szczecin
+🖥️ Currently building a computing cluster @ University of Szczecin
 
 ---
 
