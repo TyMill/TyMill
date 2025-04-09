@@ -32,9 +32,8 @@
 
 ## 📬 Let’s Connect
 
-- [🌍 Website](https://...) ← (add your link)
-- [🔗 LinkedIn](https://linkedin.com/in/...)  
-- [🧪 ORCID](https://orcid.org/...)  
+- [🔗 LinkedIn](https://www.linkedin.com/in/tymoteusz-miller-73295868/)  
+- [🧪 ORCID](https://orcid.org/0000-0002-5962-5334) 
 - [📧 Email](mailto:tymoteusz.miller@usz.edu.pl)  
 - [📦 GitHub](https://github.com/TyMill)
 
