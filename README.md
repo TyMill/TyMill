@@ -1,7 +1,5 @@
 # 👋 Hi there, I’m Tymoteusz Miller
 
-![Visitors](https://komarev.com/ghpvc/?username=TyMill&color=blue&style=flat-square)
-
 💡 Data Scientist · AI Researcher · Open Science Advocate  
 🧠 PhD in Biology · Building Scientific Software in Python & Julia  
 📘 Author of *Machine Learning Unlocked* (2025)  
@@ -43,3 +41,6 @@
 ---
 
 ✨ *Building tools, teaching AI, and making science open to everyone.*
+
+![Visitors](https://komarev.com/ghpvc/?username=TyMill&color=blue&style=flat-square)
+
