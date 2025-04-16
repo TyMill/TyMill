@@ -42,5 +42,5 @@
 
 ✨ *Building tools, teaching AI, and making science open to everyone.*
 
-![Visitors](https://komarev.com/ghpvc/?username=TyMill&color=blue&style=pixel)
+![Visitors](https://komarev.com/ghpvc/?username=TyMill&color=blue&style=plastic)
 
