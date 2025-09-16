@@ -41,6 +41,13 @@
 
 ---
 
+### GitHub Stats
+
+--
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TyMill&show_icons=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TyMill&layout=compact)
+--
+
 ✨ *Building tools, teaching AI, and making science open to everyone.*
 
 ![Visitors](https://komarev.com/ghpvc/?username=TyMill&color=blue&style=plastic)
