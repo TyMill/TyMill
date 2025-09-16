@@ -43,8 +43,8 @@
 
 ### GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TyMill&show_icons=true&hide_title=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TyMill&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TyMill&show_icons=true&hide_title=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TyMill&layout=compact&theme=dracula)
 
 
 ✨ *Building tools, teaching AI, and making science open to everyone.*
